@@ -1,6 +1,8 @@
 # Understanding-Customer-Churn
 Data Analysis and Visualization on Customer Churn Trends and Retention Factors. 
+
 The dataset and pivot tables can be found at (https://docs.google.com/spreadsheets/d/1Kip3PBtsUzU96-eXT49KaYGPeUf1okxFLvO-crpXWcE/edit?gid=627378948#gid=627378948)
+
 The interactive dashboard can be found at (https://public.tableau.com/app/profile/tyler.valdez/viz/CustomerChurnAnalysis_17390989836820/Dashboard1)
 
 ## Overview
