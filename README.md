@@ -1,5 +1,7 @@
 # Understanding-Customer-Churn
-Data Analysis and Visualization on Customer Churn Trends and Retention Factors. The interactive dashboard can be found at (https://public.tableau.com/app/profile/tyler.valdez/viz/CustomerChurnAnalysis_17390989836820/Dashboard1)
+Data Analysis and Visualization on Customer Churn Trends and Retention Factors. 
+The dataset and pivot tables can be found at (https://docs.google.com/spreadsheets/d/1Kip3PBtsUzU96-eXT49KaYGPeUf1okxFLvO-crpXWcE/edit?gid=627378948#gid=627378948)
+The interactive dashboard can be found at (https://public.tableau.com/app/profile/tyler.valdez/viz/CustomerChurnAnalysis_17390989836820/Dashboard1)
 
 ## Overview
 In this analysis, I explore key factors influencing customer churn in the banking industry. The goal of this project is to identify patterns and trends that contribute to churn, providing actionable recommendations to improve customer retention. Key areas analyzed include tenure impact, product ownership, geographic trends, credit scores, and demographic influences on churn rates.
