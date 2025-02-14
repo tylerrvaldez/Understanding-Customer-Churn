@@ -5,7 +5,7 @@ Data Analysis and Visualization on Customer Churn Trends and Retention Factors. 
 In this analysis, I explore key factors influencing customer churn in the banking industry. The goal of this project is to identify patterns and trends that contribute to churn, providing actionable recommendations to improve customer retention. Key areas analyzed include tenure impact, product ownership, geographic trends, credit scores, and demographic influences on churn rates.
 
 ## Project Preview
-![Dashboard Preview](Graphs%20and%20Dashboard/Dashboard_Screenshot.png)
+![Dashboard Preview](Graphs%20and%20Dashboard/Dashboard-Screenshot.png)
 
 ## Data Source
 The dataset, sourced from Kaggle (https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data), contains detailed records of bank customers, including:
